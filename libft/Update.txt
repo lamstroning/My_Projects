@@ -1,0 +1,5 @@
+1) Add function "ft_lstlen" - this function calculates the length lists.
+
+2) Add function "ft_sqrt" - this function calculates squart of two numbers.
+
+3) Add function "ft_lstappend" - this function adds new list to end chains.
